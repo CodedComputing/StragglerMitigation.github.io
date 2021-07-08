@@ -4,7 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-# Massive Machine Type Communication
+# Large-scale Coded Computing
 
 ![Unsourced MAC](assets/UMAC.png)
 
