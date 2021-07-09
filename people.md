@@ -12,4 +12,11 @@ This research initiative is conducted primarily at [Texas A&M University](https:
 * [Michail Gkagkos](https://github.com/mgkagk01)
 * [Ruowan Ji](https://github.com/RUOWANJI)
 
+## Recent Collaborators
+
+* [Jean-Francois Chamberland](https://github.com/chmbrlnd), [Google Scholar](https://scholar.google.com/citations?user=8Dk3NR0AAAAJ)
+* [Vamsi Amalladinne](https://github.com/vamsi128), [Google Scholar](https://scholar.google.com/citations?hl=en&user=t8O1_oYAAAAJ)
+
+
+
 
