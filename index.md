@@ -6,11 +6,11 @@ permalink: /index.html
 
 # Large-scale Coded Computing
 
-Many applications in optimization and machine learning require multiplications of large matrices of dimension of the order of 10^5X10^5. 
+Many applications in optimization and machine learning require multiplications of large matrices of dimension of the order of ![](https://latex.codecogs.com/gif.latex?10%5E5%5Ctimes10%5E5). 
 These large-scale matrix multiplications cannot be carried out in a single machine mainly due to low-latency requirement in many applications. 
 So, in order to meet this requirement, people proposed coded distributed matrix multiplication for straggler mitigation.
-In coded distributed matrix multiplication, a master node wishes to compute the matrix product $$A^TB$$ with the help of several worker nodes. (As shown in the figure)
-The main idea is to partition $$\mb{A}$$ and $$\mb{B}$$ into several smaller submatrices, encode the submatrices using a carefully constructed code into a redundant set of submatrices, and transmit the encoded submatrices to different worker nodes. 
+In coded distributed matrix multiplication, a master node wishes to compute the matrix product ![](https://latex.codecogs.com/gif.latex?%5Cmathbf%7BA%7D%5E%5Cmathsf%7BT%7D%5Cmathbf%7BB%7D) with the help of several worker nodes. (As shown in the figure)
+The main idea is to partition ![](https://latex.codecogs.com/gif.latex?%5Cmathbf%7BA%7D) and ![](https://latex.codecogs.com/gif.latex?%5Cmathbf%7BB%7D) into several smaller submatrices, encode the submatrices using a carefully constructed code into a redundant set of submatrices, and transmit the encoded submatrices to different worker nodes. 
 The worker nodes compute the smaller matrix products and return their computation to the master node which combines the results from each worker node to produce the final result.
 The code is designed such that the final result can be recovered from a subset of the submatrix products, i.e., the system is resilient to straggling workers which do not return their computation in time. 
 Recovery threshold of this algorithm defined as the minimum number of worker nodes that the master node needs to wait for to compute two large matrices.
