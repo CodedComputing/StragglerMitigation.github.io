@@ -23,12 +23,3 @@ permalink: /Publications.html
  [Product Lagrange Coded Computing](https://ieeexplore.ieee.org/abstract/document/9174440)
  2020 IEEE International Symposium on Information Theory (ISIT), 2020, pp. 197-202, doi: 10.1109/ISIT44484.2020.9174440.
  
-## Tutorial Presentations
-
-* J.-F. Chamberland, K.R. Narayanan.
-Algorithms for Coded Random Access and Inference in Large Dimensional Spaces.
-Signal Processing and Communications (SPCOM) 2020 Conference, Indian Institute of Science.
-[YouTube](https://youtube.com/playlist?list=PLUd5FtcfdZfkT9gUpYw7q97yHUABQzZbL).
-
-
-

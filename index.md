@@ -16,7 +16,7 @@ The code is designed such that the final result can be recovered from a subset o
 Recovery threshold of this algorithm defined as the minimum number of worker nodes that the master node needs to wait for to compute two large matrices.
 
 
-![Unsourced MAC](assets/CodedC.jpeg)
+![](assets/CodedC.jpeg)
 
 Robust algorithms for such kind of large-scale distributed matrix multiplication need to address several important factors including 
 
