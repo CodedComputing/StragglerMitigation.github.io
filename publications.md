@@ -6,9 +6,6 @@ permalink: /Publications.html
 
 ## Journal Articles
 
-* D. K. Soma, A. K. Pradhan and K. Narayanan.
- [Errors and Erasures Decoding of Product Codes for Optical Transport Networks](https://ieeexplore.ieee.org/abstract/document/9420728)
-  in IEEE Communications Letters, doi: 10.1109/LCOMM.2021.3077027.
 
 
 ## Conference Articles
